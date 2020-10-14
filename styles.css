@@ -20,10 +20,10 @@ ul{
     list-style: none;
 }
 .container{
-    max-width: 600px;
+    width: 600px;
 }
 .sldContainer{
-    width: 100%;
+    width: 600px;
     display: flex;
     overflow: hidden;
 }
